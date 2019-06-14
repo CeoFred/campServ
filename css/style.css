@@ -918,7 +918,7 @@ label::after {
     width: 100%;
     background: no-repeat;
     margin: 0;
-    font-family: Open Sans;
+    /* font-family: Open Sans; */
     font-size: 13px;
     color: #474747;
     padding: 16px 45px 16px 15px;
@@ -952,7 +952,7 @@ label::after {
     font-weight: bold;
     letter-spacing: 0.3px;
     margin-top: 20px;
-    
+    margin-bottom:20px;
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
     -ms-border-radius: 8px;
